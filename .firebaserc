@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "recipe-book-proj-f0b03"
+  },
+  "targets": {
+    "recipe-book-proj-f0b03": {
+      "hosting": {
+        "shoppingProj": [
+          "recipe-book-proj-f0b03"
+        ]
+      }
+    }
+  }
+}
